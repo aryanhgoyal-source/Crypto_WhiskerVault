@@ -1,0 +1,3 @@
+Keygen.py:
+public_exponent=65537    -standard, safe value used in virtually all RSA implementations
+key_size=2048            -current minimum secure standard
